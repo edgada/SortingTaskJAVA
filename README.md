@@ -9,3 +9,4 @@ Reikalavimai programai:
 - Skaičiai turi būti surikiuoti didėjimo tvarka, žodžiai - alfabeto tvarka. Skaičius rikiuojamas aukščiau nei žodis;
 - Stulpeliai eilutėse yra atskiriami naudojant tabuliaciją (\t).
 
+![sortingtask](https://user-images.githubusercontent.com/28343547/39712268-1bc56548-522b-11e8-99a3-295a58cdb994.jpg)
